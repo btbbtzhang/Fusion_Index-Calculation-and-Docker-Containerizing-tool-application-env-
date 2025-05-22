@@ -1,5 +1,5 @@
 # Fusion_Index Calculation and Docker Containerizing tool application env
-To calculated the muscle fiber coverage and fusion index score (nuclear staining inside the fiber percentage) through microscopy images, I found a powerful well-trained Deep Neural Network model that can be used for this purpose, the tool is called MyoFinDer. The objectives of this repository are:   
+Our biotech company, Myo Palate aims to grow cultivative meat from the lab, thus all muscle related bio requires some explorations. To calculated the muscle fiber coverage and fusion index score (nuclear staining inside the fiber percentage) through microscopy images. Going through the iteratures, I found a powerful Deep Neural Network model that has been already well trained on many biological images, which can be definitely used for this purpose, the tool is called MyoFinDer. The objectives of this repository are:   
 
 
 
